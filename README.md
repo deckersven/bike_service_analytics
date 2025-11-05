@@ -4,5 +4,7 @@ Here you find the SQL queries to update the [Sercice Dashboard in Excel](https:/
 
 The files `dataset_conversion_bs1zero.sql` and `dataset_conversion_bs2zero.sql` contain the queries for the old (`[...]1zero.sql`) and the new (`[...]2zero.sql`) service world. Both queries offer a dataset to add to the dashboard. The conversion rates are calculated in the dashboard itself.
 
-THe file `rollOut.sql` ... .
+The file `rollOut.sql` contains multiple queries to fill the "original" service dashboard:
+- the data set of the LRV conversion to the new service world.
+- queries to get the total numbers with respect to the new service world.
 
